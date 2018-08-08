@@ -6,3 +6,4 @@ def create_project_hash
   kickstarter = Nokogori::HTML(html)
   binding.pry
 end
+create_project_hash
